@@ -14,7 +14,7 @@ Must have:
 
 
 Should have:
-9.	A user should get recommendations of servers created by other users.
+9.	A user should get recommendations of servers created by other users.\n
 10.	Users should be able to rate and follow servers.
 11.	Users should be able to view the servers that they rated and/or followed.
 12.	Users should be able to filter servers by genres and types.
