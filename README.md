@@ -1,3 +1,6 @@
+NOTE: This is an old and unused repo. Please go to this link for the new repository: https://github.com/Karrtii/CookBook
+
+
 # AnyThing
 AnyThing is a text based android app where you can do... anything! You want to create an epic high-fantasy movie story? Sure! You want to create a game where you are not bound by any rules, choices, or genres? Absolutely! Anything goes. Just create a server where your new adventure will be written, but the catch is that anybody can pop in play along with you. Imagining a horror game where you are avoiding detection of a hostile enemy? POP! Suddenly there's player 2, or that might be an enemy. Reenacting an epic war? POP! There are 100 soldiers on your side to win you the battle, or they might choose to be the opposition. The story can be whatever you want it to be. The only limitation is your imagination
 
